@@ -1,0 +1,6 @@
+export * from "./LogosSection"
+export * from "./LogoItem"
+export * from "./CompanySection"
+export * from "./CarouselSection"
+export * from "./CarouselItem"
+export * from "./Footer"
